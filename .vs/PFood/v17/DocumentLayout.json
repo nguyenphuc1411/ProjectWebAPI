@@ -1,0 +1,446 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HocTap\\C#5 - API\\PFood\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E8C977-236A-489F-B03D-49DA5AB7A5D9}|Client\\Client.csproj|d:\\hoctap\\c#5 - api\\pfood\\client\\controllers\\cartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8E8C977-236A-489F-B03D-49DA5AB7A5D9}|Client\\Client.csproj|solutionrelative:client\\controllers\\cartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E8C977-236A-489F-B03D-49DA5AB7A5D9}|Client\\Client.csproj|d:\\hoctap\\c#5 - api\\pfood\\client\\controllers\\foodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8E8C977-236A-489F-B03D-49DA5AB7A5D9}|Client\\Client.csproj|solutionrelative:client\\controllers\\foodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E8C977-236A-489F-B03D-49DA5AB7A5D9}|Client\\Client.csproj|d:\\hoctap\\c#5 - api\\pfood\\client\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8E8C977-236A-489F-B03D-49DA5AB7A5D9}|Client\\Client.csproj|solutionrelative:client\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E8C977-236A-489F-B03D-49DA5AB7A5D9}|Client\\Client.csproj|d:\\hoctap\\c#5 - api\\pfood\\client\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8E8C977-236A-489F-B03D-49DA5AB7A5D9}|Client\\Client.csproj|solutionrelative:client\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E8C977-236A-489F-B03D-49DA5AB7A5D9}|Client\\Client.csproj|d:\\hoctap\\c#5 - api\\pfood\\client\\models\\resetpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8E8C977-236A-489F-B03D-49DA5AB7A5D9}|Client\\Client.csproj|solutionrelative:client\\models\\resetpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E8C977-236A-489F-B03D-49DA5AB7A5D9}|Client\\Client.csproj|d:\\hoctap\\c#5 - api\\pfood\\client\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8E8C977-236A-489F-B03D-49DA5AB7A5D9}|Client\\Client.csproj|solutionrelative:client\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E8C977-236A-489F-B03D-49DA5AB7A5D9}|Client\\Client.csproj|d:\\hoctap\\c#5 - api\\pfood\\client\\areas\\admin\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8E8C977-236A-489F-B03D-49DA5AB7A5D9}|Client\\Client.csproj|solutionrelative:client\\areas\\admin\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E8C977-236A-489F-B03D-49DA5AB7A5D9}|Client\\Client.csproj|d:\\hoctap\\c#5 - api\\pfood\\client\\areas\\admin\\views\\order\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8E8C977-236A-489F-B03D-49DA5AB7A5D9}|Client\\Client.csproj|solutionrelative:client\\areas\\admin\\views\\order\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E8C977-236A-489F-B03D-49DA5AB7A5D9}|Client\\Client.csproj|d:\\hoctap\\c#5 - api\\pfood\\client\\views\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8E8C977-236A-489F-B03D-49DA5AB7A5D9}|Client\\Client.csproj|solutionrelative:client\\views\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E8C977-236A-489F-B03D-49DA5AB7A5D9}|Client\\Client.csproj|d:\\hoctap\\c#5 - api\\pfood\\client\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8E8C977-236A-489F-B03D-49DA5AB7A5D9}|Client\\Client.csproj|solutionrelative:client\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7895C666-2D4F-4D11-B463-59F6E0AFB64D}|PFood\\PFood.csproj|d:\\hoctap\\c#5 - api\\pfood\\pfood\\services\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7895C666-2D4F-4D11-B463-59F6E0AFB64D}|PFood\\PFood.csproj|solutionrelative:pfood\\services\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E8C977-236A-489F-B03D-49DA5AB7A5D9}|Client\\Client.csproj|d:\\hoctap\\c#5 - api\\pfood\\client\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8E8C977-236A-489F-B03D-49DA5AB7A5D9}|Client\\Client.csproj|solutionrelative:client\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E8C977-236A-489F-B03D-49DA5AB7A5D9}|Client\\Client.csproj|d:\\hoctap\\c#5 - api\\pfood\\client\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8E8C977-236A-489F-B03D-49DA5AB7A5D9}|Client\\Client.csproj|solutionrelative:client\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7895C666-2D4F-4D11-B463-59F6E0AFB64D}|PFood\\PFood.csproj|d:\\hoctap\\c#5 - api\\pfood\\pfood\\services\\iemailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7895C666-2D4F-4D11-B463-59F6E0AFB64D}|PFood\\PFood.csproj|solutionrelative:pfood\\services\\iemailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7895C666-2D4F-4D11-B463-59F6E0AFB64D}|PFood\\PFood.csproj|d:\\hoctap\\c#5 - api\\pfood\\pfood\\services\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7895C666-2D4F-4D11-B463-59F6E0AFB64D}|PFood\\PFood.csproj|solutionrelative:pfood\\services\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7895C666-2D4F-4D11-B463-59F6E0AFB64D}|PFood\\PFood.csproj|d:\\hoctap\\c#5 - api\\pfood\\pfood\\services\\emailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7895C666-2D4F-4D11-B463-59F6E0AFB64D}|PFood\\PFood.csproj|solutionrelative:pfood\\services\\emailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E8C977-236A-489F-B03D-49DA5AB7A5D9}|Client\\Client.csproj|d:\\hoctap\\c#5 - api\\pfood\\client\\areas\\admin\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8E8C977-236A-489F-B03D-49DA5AB7A5D9}|Client\\Client.csproj|solutionrelative:client\\areas\\admin\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E8C977-236A-489F-B03D-49DA5AB7A5D9}|Client\\Client.csproj|d:\\hoctap\\c#5 - api\\pfood\\client\\views\\food\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8E8C977-236A-489F-B03D-49DA5AB7A5D9}|Client\\Client.csproj|solutionrelative:client\\views\\food\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E8C977-236A-489F-B03D-49DA5AB7A5D9}|Client\\Client.csproj|d:\\hoctap\\c#5 - api\\pfood\\client\\views\\food\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8E8C977-236A-489F-B03D-49DA5AB7A5D9}|Client\\Client.csproj|solutionrelative:client\\views\\food\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E8C977-236A-489F-B03D-49DA5AB7A5D9}|Client\\Client.csproj|d:\\hoctap\\c#5 - api\\pfood\\client\\areas\\admin\\views\\home\\feedback.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8E8C977-236A-489F-B03D-49DA5AB7A5D9}|Client\\Client.csproj|solutionrelative:client\\areas\\admin\\views\\home\\feedback.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E8C977-236A-489F-B03D-49DA5AB7A5D9}|Client\\Client.csproj|d:\\hoctap\\c#5 - api\\pfood\\client\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8E8C977-236A-489F-B03D-49DA5AB7A5D9}|Client\\Client.csproj|solutionrelative:client\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E8C977-236A-489F-B03D-49DA5AB7A5D9}|Client\\Client.csproj|d:\\hoctap\\c#5 - api\\pfood\\client\\views\\order\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8E8C977-236A-489F-B03D-49DA5AB7A5D9}|Client\\Client.csproj|solutionrelative:client\\views\\order\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E8C977-236A-489F-B03D-49DA5AB7A5D9}|Client\\Client.csproj|d:\\hoctap\\c#5 - api\\pfood\\client\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D8E8C977-236A-489F-B03D-49DA5AB7A5D9}|Client\\Client.csproj|solutionrelative:client\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7895C666-2D4F-4D11-B463-59F6E0AFB64D}|PFood\\PFood.csproj|d:\\hoctap\\c#5 - api\\pfood\\pfood\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7895C666-2D4F-4D11-B463-59F6E0AFB64D}|PFood\\PFood.csproj|solutionrelative:pfood\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7895C666-2D4F-4D11-B463-59F6E0AFB64D}|PFood\\PFood.csproj|d:\\hoctap\\c#5 - api\\pfood\\pfood\\data\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7895C666-2D4F-4D11-B463-59F6E0AFB64D}|PFood\\PFood.csproj|solutionrelative:pfood\\data\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7895C666-2D4F-4D11-B463-59F6E0AFB64D}|PFood\\PFood.csproj|d:\\hoctap\\c#5 - api\\pfood\\pfood\\services\\icouponrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7895C666-2D4F-4D11-B463-59F6E0AFB64D}|PFood\\PFood.csproj|solutionrelative:pfood\\services\\icouponrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FoodController.cs",
+              "DocumentMoniker": "D:\\HocTap\\C#5 - API\\PFood\\Client\\Controllers\\FoodController.cs",
+              "RelativeDocumentMoniker": "Client\\Controllers\\FoodController.cs",
+              "ToolTip": "D:\\HocTap\\C#5 - API\\PFood\\Client\\Controllers\\FoodController.cs",
+              "RelativeToolTip": "Client\\Controllers\\FoodController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:22:55.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\HocTap\\C#5 - API\\PFood\\Client\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Client\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\HocTap\\C#5 - API\\PFood\\Client\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Client\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAAAJAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T13:45:16.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\HocTap\\C#5 - API\\PFood\\Client\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Client\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\HocTap\\C#5 - API\\PFood\\Client\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Client\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T13:54:36.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\HocTap\\C#5 - API\\PFood\\Client\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Client\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\HocTap\\C#5 - API\\PFood\\Client\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Client\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAnwE4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T14:16:22.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ResetPassword.cshtml",
+              "DocumentMoniker": "D:\\HocTap\\C#5 - API\\PFood\\Client\\Views\\Account\\ResetPassword.cshtml",
+              "RelativeDocumentMoniker": "Client\\Views\\Account\\ResetPassword.cshtml",
+              "ToolTip": "D:\\HocTap\\C#5 - API\\PFood\\Client\\Views\\Account\\ResetPassword.cshtml",
+              "RelativeToolTip": "Client\\Views\\Account\\ResetPassword.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T15:35:13.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "D:\\HocTap\\C#5 - API\\PFood\\Client\\Areas\\Admin\\Views\\Order\\Detail.cshtml",
+              "RelativeDocumentMoniker": "Client\\Areas\\Admin\\Views\\Order\\Detail.cshtml",
+              "ToolTip": "D:\\HocTap\\C#5 - API\\PFood\\Client\\Areas\\Admin\\Views\\Order\\Detail.cshtml",
+              "RelativeToolTip": "Client\\Areas\\Admin\\Views\\Order\\Detail.cshtml",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAGAAAACGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T14:00:58.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CartsController.cs",
+              "DocumentMoniker": "D:\\HocTap\\C#5 - API\\PFood\\Client\\Controllers\\CartsController.cs",
+              "RelativeDocumentMoniker": "Client\\Controllers\\CartsController.cs",
+              "ToolTip": "D:\\HocTap\\C#5 - API\\PFood\\Client\\Controllers\\CartsController.cs",
+              "RelativeToolTip": "Client\\Controllers\\CartsController.cs",
+              "ViewState": "AQIAAP0AAAAAAAAAAAAIwAkBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T09:10:19.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ResetPassword.cs",
+              "DocumentMoniker": "D:\\HocTap\\C#5 - API\\PFood\\Client\\Models\\ResetPassword.cs",
+              "RelativeDocumentMoniker": "Client\\Models\\ResetPassword.cs",
+              "ToolTip": "D:\\HocTap\\C#5 - API\\PFood\\Client\\Models\\ResetPassword.cs",
+              "RelativeToolTip": "Client\\Models\\ResetPassword.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T14:45:52.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\HocTap\\C#5 - API\\PFood\\Client\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "Client\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "ToolTip": "D:\\HocTap\\C#5 - API\\PFood\\Client\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "Client\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAFoAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T13:53:29.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\HocTap\\C#5 - API\\PFood\\Client\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Client\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\HocTap\\C#5 - API\\PFood\\Client\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Client\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T14:47:51.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "D:\\HocTap\\C#5 - API\\PFood\\PFood\\Services\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "PFood\\Services\\AccountRepository.cs",
+              "ToolTip": "D:\\HocTap\\C#5 - API\\PFood\\PFood\\Services\\AccountRepository.cs",
+              "RelativeToolTip": "PFood\\Services\\AccountRepository.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAowFkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T15:24:23.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\HocTap\\C#5 - API\\PFood\\Client\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Client\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\HocTap\\C#5 - API\\PFood\\Client\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Client\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T14:46:13.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IEmailRepository.cs",
+              "DocumentMoniker": "D:\\HocTap\\C#5 - API\\PFood\\PFood\\Services\\IEmailRepository.cs",
+              "RelativeDocumentMoniker": "PFood\\Services\\IEmailRepository.cs",
+              "ToolTip": "D:\\HocTap\\C#5 - API\\PFood\\PFood\\Services\\IEmailRepository.cs",
+              "RelativeToolTip": "PFood\\Services\\IEmailRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:44:30.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\HocTap\\C#5 - API\\PFood\\Client\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Client\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\HocTap\\C#5 - API\\PFood\\Client\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Client\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAmwDEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T13:55:27.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EmailRepository.cs",
+              "DocumentMoniker": "D:\\HocTap\\C#5 - API\\PFood\\PFood\\Services\\EmailRepository.cs",
+              "RelativeDocumentMoniker": "PFood\\Services\\EmailRepository.cs",
+              "ToolTip": "D:\\HocTap\\C#5 - API\\PFood\\PFood\\Services\\EmailRepository.cs",
+              "RelativeToolTip": "PFood\\Services\\EmailRepository.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAIwFoAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:31:27.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IAccountRepository.cs",
+              "DocumentMoniker": "D:\\HocTap\\C#5 - API\\PFood\\PFood\\Services\\IAccountRepository.cs",
+              "RelativeDocumentMoniker": "PFood\\Services\\IAccountRepository.cs",
+              "ToolTip": "D:\\HocTap\\C#5 - API\\PFood\\PFood\\Services\\IAccountRepository.cs",
+              "RelativeToolTip": "PFood\\Services\\IAccountRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:32:25.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\HocTap\\C#5 - API\\PFood\\Client\\Areas\\Admin\\Views\\Account\\Index.cshtml",
+              "RelativeDocumentMoniker": "Client\\Areas\\Admin\\Views\\Account\\Index.cshtml",
+              "ToolTip": "D:\\HocTap\\C#5 - API\\PFood\\Client\\Areas\\Admin\\Views\\Account\\Index.cshtml",
+              "RelativeToolTip": "Client\\Areas\\Admin\\Views\\Account\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T14:17:12.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "D:\\HocTap\\C#5 - API\\PFood\\Client\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "Client\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "D:\\HocTap\\C#5 - API\\PFood\\Client\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "Client\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAAGsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T14:07:15.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Feedback.cshtml",
+              "DocumentMoniker": "D:\\HocTap\\C#5 - API\\PFood\\Client\\Areas\\Admin\\Views\\Home\\Feedback.cshtml",
+              "RelativeDocumentMoniker": "Client\\Areas\\Admin\\Views\\Home\\Feedback.cshtml",
+              "ToolTip": "D:\\HocTap\\C#5 - API\\PFood\\Client\\Areas\\Admin\\Views\\Home\\Feedback.cshtml",
+              "RelativeToolTip": "Client\\Areas\\Admin\\Views\\Home\\Feedback.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T14:08:47.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\HocTap\\C#5 - API\\PFood\\Client\\Views\\Food\\Index.cshtml",
+              "RelativeDocumentMoniker": "Client\\Views\\Food\\Index.cshtml",
+              "ToolTip": "D:\\HocTap\\C#5 - API\\PFood\\Client\\Views\\Food\\Index.cshtml",
+              "RelativeToolTip": "Client\\Views\\Food\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T14:11:37.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "D:\\HocTap\\C#5 - API\\PFood\\Client\\Views\\Food\\Detail.cshtml",
+              "RelativeDocumentMoniker": "Client\\Views\\Food\\Detail.cshtml",
+              "ToolTip": "D:\\HocTap\\C#5 - API\\PFood\\Client\\Views\\Food\\Detail.cshtml",
+              "RelativeToolTip": "Client\\Views\\Food\\Detail.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAE0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T14:11:38.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "D:\\HocTap\\C#5 - API\\PFood\\Client\\Views\\Order\\Detail.cshtml",
+              "RelativeDocumentMoniker": "Client\\Views\\Order\\Detail.cshtml",
+              "ToolTip": "D:\\HocTap\\C#5 - API\\PFood\\Client\\Views\\Order\\Detail.cshtml",
+              "RelativeToolTip": "Client\\Views\\Order\\Detail.cshtml",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAuwIEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T13:57:10.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\HocTap\\C#5 - API\\PFood\\Client\\appsettings.json",
+              "RelativeDocumentMoniker": "Client\\appsettings.json",
+              "ToolTip": "D:\\HocTap\\C#5 - API\\PFood\\Client\\appsettings.json",
+              "RelativeToolTip": "Client\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-10T13:44:58.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\HocTap\\C#5 - API\\PFood\\PFood\\Data\\User.cs",
+              "RelativeDocumentMoniker": "PFood\\Data\\User.cs",
+              "ToolTip": "D:\\HocTap\\C#5 - API\\PFood\\PFood\\Data\\User.cs",
+              "RelativeToolTip": "PFood\\Data\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:44:05.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\HocTap\\C#5 - API\\PFood\\PFood\\appsettings.json",
+              "RelativeDocumentMoniker": "PFood\\appsettings.json",
+              "ToolTip": "D:\\HocTap\\C#5 - API\\PFood\\PFood\\appsettings.json",
+              "RelativeToolTip": "PFood\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-10T13:44:49.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ICouponRepository.cs",
+              "DocumentMoniker": "D:\\HocTap\\C#5 - API\\PFood\\PFood\\Services\\ICouponRepository.cs",
+              "RelativeDocumentMoniker": "PFood\\Services\\ICouponRepository.cs",
+              "ToolTip": "D:\\HocTap\\C#5 - API\\PFood\\PFood\\Services\\ICouponRepository.cs",
+              "RelativeToolTip": "PFood\\Services\\ICouponRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:44:37.273Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
